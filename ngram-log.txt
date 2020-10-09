@@ -1,0 +1,4 @@
+2.320435047149658 secs python ngram.py 3 3 austen-emma.txt austen-persuasion.txt carroll-alice.txt 
+4.446023464202881 secs python ngram.py 4 2 austen-emma.txt chesterton-ball.txt chesterton-brown.txt edgeworth-parents.txt 
+10.20568323135376 secs python ngram.py 2 4 burgess-busterbrown.txt carroll-alice.txt chesterton-ball.txt chesterton-brown.txt chesterton-thursday.txt edgeworth-parents.txt 
+2.337595224380493 secs python ngram.py 3 2 austen-emma.txt austen-persuasion.txt carroll-alice.txt 
